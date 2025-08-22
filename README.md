@@ -26,6 +26,3 @@ Square Root: 3.51
 Sine: 0.22
 Cosine: 0.97
 Rounded: 12
-Submit the .c file directly.
-Deadline on August 22, 2025 11:30am.
-Late submissions will be accepted until August 22, 2025 9pm.
